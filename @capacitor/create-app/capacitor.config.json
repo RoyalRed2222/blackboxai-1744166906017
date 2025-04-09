@@ -1,0 +1,10 @@
+{
+  "appId": "com.aswin.customerpaymenttracker",
+  "appName": "Customer Payment Tracker",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    }
+  }
+}
